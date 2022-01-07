@@ -61,7 +61,7 @@ async def skip(client, m: Message):
     keyboard = InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton("❤️ ᴏᴡɴᴇʀ ❤️", url=f"https://t.me/bar_lo0o0"),
+                InlineKeyboardButton("❤️ ᴏᴡɴᴇʀ ❤️", url=f"https://t.me/antwaei"),
                 InlineKeyboardButton("👨‍‍👧‍👦 ɢʀᴏᴜᴘ 👨‍👧‍👦", url=f"https://t.me/{GROUP_SUPPORT}"),
             ]
         ]
@@ -115,7 +115,7 @@ async def stop(client, m: Message):
             keyboard = InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton("❤️ ʜᴇᴀʀᴛ ❤️", url=f"https://t.me/bar_lo0o0o0o0o"),
+                InlineKeyboardButton("❤️ ʜᴇᴀʀᴛ ❤️", url=f"https://t.me/antwaei"),
                 InlineKeyboardButton("👨‍‍👧‍👦 ɢʀᴏᴜᴘ 👨‍👧‍👦", url=f"https://t.me/{GROUP_SUPPORT}"),
             ]
         ]
@@ -127,7 +127,7 @@ async def stop(client, m: Message):
         keyboard = InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton("❤️ ʜᴇᴀʀᴛ ❤️", url=f"https://t.me/bar_lo0o0o0o0o"),
+                InlineKeyboardButton("❤️ ʜᴇᴀʀᴛ ❤️", url=f"https://t.me/antwaei"),
                 InlineKeyboardButton("👨‍‍👧‍👦 ɢʀᴏᴜᴘ 👨‍👧‍👦", url=f"https://t.me/{GROUP_SUPPORT}"),
             ]
         ]
@@ -167,7 +167,7 @@ async def resume(client, m: Message):
             keyboard = InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton("❤️ ʜᴇᴀʀᴛ ❤️", url=f"https://t.me/bar_lo0o0o0o0o"),
+                InlineKeyboardButton("❤️ ʜᴇᴀʀᴛ ❤️", url=f"https://t.me/antwaei"),
                 InlineKeyboardButton("👨‍‍👧‍👦 ɢʀᴏᴜᴘ 👨‍👧‍👦", url=f"https://t.me/{GROUP_SUPPORT}"),
             ]
         ]
@@ -179,7 +179,7 @@ async def resume(client, m: Message):
         keyboard = InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton("❤️ ʜᴇᴀʀᴛ ❤️", url=f"https://t.me/bar_lo0o0o0o0o"),
+                InlineKeyboardButton("❤️ ʜᴇᴀʀᴛ ❤️", url=f"https://t.me/antwaei"),
                 InlineKeyboardButton("👨‍‍👧‍👦 ɢʀᴏᴜᴘ 👨‍👧‍👦", url=f"https://t.me/{GROUP_SUPPORT}"),
             ]
         ]
@@ -201,7 +201,7 @@ async def mute(client, m: Message):
             keyboard = InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton("❤️ ʜᴇᴀʀᴛ ❤️", url=f"https://t.me/bar_lo0o0o0o0o"),
+                InlineKeyboardButton("❤️ ʜᴇᴀʀᴛ ❤️", url=f"https://t.me/antwaei"),
                 InlineKeyboardButton("👨‍‍👧‍👦 ɢʀᴏᴜᴘ 👨‍👧‍👦", url=f"https://t.me/{GROUP_SUPPORT}"),
             ]
         ]
@@ -213,7 +213,7 @@ async def mute(client, m: Message):
         keyboard = InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton("❤️ ʜᴇᴀʀᴛ ❤️", url=f"https://t.me/bar_lo0o0o0o0o"),
+                InlineKeyboardButton("❤️ ʜᴇᴀʀᴛ ❤️", url=f"https://t.me/antwaei"),
                 InlineKeyboardButton("👨‍‍👧‍👦 ɢʀᴏᴜᴘ 👨‍👧‍👦", url=f"https://t.me/{GROUP_SUPPORT}"),
             ]
         ]
@@ -235,7 +235,7 @@ async def unmute(client, m: Message):
             keyboard = InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton("❤️ ʜᴇᴀʀᴛ ❤️", url=f"https://t.me/bar_lo0o0o0o0o"),
+                InlineKeyboardButton("❤️ ʜᴇᴀʀᴛ ❤️", url=f"https://t.me/antwaei"),
                 InlineKeyboardButton("👨‍‍👧‍👦 ɢʀᴏᴜᴘ 👨‍👧‍👦", url=f"https://t.me/{GROUP_SUPPORT}"),
             ]
         ]
@@ -247,7 +247,7 @@ async def unmute(client, m: Message):
         keyboard = InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton("❤️ ʜᴇᴀʀᴛ ❤️", url=f"https://t.me/bar_lo0o0o0o0o"),
+                InlineKeyboardButton("❤️ ʜᴇᴀʀᴛ ❤️", url=f"https://t.me/antwaei"),
                 InlineKeyboardButton("👨‍‍👧‍👦 ɢʀᴏᴜᴘ 👨‍👧‍👦", url=f"https://t.me/{GROUP_SUPPORT}"),
             ]
         ]
