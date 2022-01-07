@@ -7,9 +7,9 @@
         "telegram bot",
         "video stream"
     ],
-    "website": "https://t.me/bar_lo0o0",
+    "website": "https://t.me/antwaei",
     "repository": "https://github.com/hadohu/PRsong",
-    "success_url": "https://t.me/bar_lo0o0o0o0o",
+    "success_url": "https://t.me/antwaei",
     "env": {
         "API_ID": {
             "description": "your API_ID from my.telegram.org",
@@ -46,22 +46,22 @@
         "GROUP_SUPPORT": {
             "description": "if you have group, then fill the group username here without @",
             "required": true,
-            "value": "bar_lo0o0o0o0o"
+            "value": "antwaei"
         },
         "UPDATES_CHANNEL": {
             "description": "if you have channel, then fill the channel username here without @",
             "required": true,
-            "value": "bar_lo0o0o0o0o"
+            "value": "antwaei"
         },
         "OWNER_NAME": {
             "description": "fill with your telegram account username without @",
             "required": true,
-            "value": "bar_lo0o0"
+            "value": "antwaei"
         },
         "ALIVE_NAME": {
             "description": "fill with your telegram account nickname/name",
             "required": true,
-            "value": "BARLO"
+            "value": "antwaei"
         }
     },
     "addons": [],
