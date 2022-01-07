@@ -1,7 +1,7 @@
 # A Powerful Music Bot Property Of Rocks Indian Largest Chatting Group
 # Without Credit (Mother Fucker)
-# Rocks © @bar_lo0o0 © Rocks
-# Owner BARLO
+# Rocks © @Unethical_hacker © Rocks
+# Owner Unethical_hacker
 
 from typing import List
 from pyrogram.types import Chat
